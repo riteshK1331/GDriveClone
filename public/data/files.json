@@ -1,0 +1,49 @@
+{
+  "folders": [
+    {
+      "id": "ATp4onPu9tSrdS0lg61BU",
+      "name": "importantDocs"
+    },
+    {
+      "id": "sDqVa--5gFPuL-UdMne_k",
+      "name": "mydoc"
+    }
+  ],
+  "files": [
+    {
+      "id": "f_1763126917122",
+      "parent": "ATp4onPu9tSrdS0lg61BU",
+      "name": "simple.txt",
+      "diskName": "1763126917122-simple.txt",
+      "size": "0 KB",
+      "modified": "2025-11-14",
+      "owner": "You"
+    },
+    {
+      "id": "f_1763126676211",
+      "parent": "ATp4onPu9tSrdS0lg61BU",
+      "name": "sample.doc",
+      "diskName": "1763126676209-sample.doc",
+      "size": "96 KB",
+      "modified": "2025-11-14",
+      "owner": "You"
+    },
+    {
+      "id": "f_1763089884454",
+      "parent": "sDqVa--5gFPuL-UdMne_k",
+      "name": "file-example_PDF_1MB.pdf",
+      "size": "1018 KB",
+      "modified": "2025-11-14",
+      "owner": "You"
+    },
+    {
+      "id": "f_1763088903413",
+      "parent": null,
+      "name": "file_example_PNG_500kB.png",
+      "diskName": "1763088903413-file_example_PNG_500kB.png",
+      "size": "501 KB",
+      "modified": "2025-11-14",
+      "owner": "You"
+    }
+  ]
+}
